@@ -7,7 +7,7 @@ description: Isoria — demokratian rakentajat ry. Yhdistys, joka rakentaa työk
 
 Isoria on suomalainen yhdistys, joka rakentaa työkaluja avoimempaan, läpinäkyvämpään ja ymmärrettävämpään demokratiaan.
 
-Ensimmäinen hankkeemme on [[avoin-vaalikone|avoin vaalikone]] — avoimen lähdekoodin vaalikone, joka yhdistää usean järjestön kysymyssarjat yhteen vaalikoneeseen ehdokasvertailun helpottamiseksi.
+Ensimmäinen hankkeemme on [[Avoin Vaalikone|avoin vaalikone]] — avoimen lähdekoodin vaalikone, joka yhdistää usean järjestön kysymyssarjat yhteen vaalikoneeseen ehdokasvertailun helpottamiseksi.
 ## Mitä teemme
 
 - Kehitämme avoimen lähdekoodin työkaluja kansalaisille ja päättäjille
