@@ -1,5 +1,5 @@
-const CONTACT_RECIPIENT = "pitkanentuukka@gmail.com";
-const FROM_ADDRESS = "Isoria-sivusto <onboarding@resend.dev>";
+const CONTACT_RECIPIENT = "info@isoria.fi";
+const FROM_ADDRESS = "Isoria-sivusto <noreply@isoria.fi>";
 const MAX_MESSAGE_LENGTH = 5000;
 
 export default {
