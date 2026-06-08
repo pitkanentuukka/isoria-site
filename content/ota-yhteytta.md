@@ -5,7 +5,7 @@ description: Lähetä viesti Isoria — demokratian rakentajat ry:lle.
 
 # Ota yhteyttä
 
-Lähetä viesti niin vastaamme mahdollisimman pian.
+Lähetä viesti niin vastaamme mahdollisimman pian. Jos haluat liittyä jäseneksi, aloita viesti sanalla "jäsenhakemus" sekä kerro pari lausetta itsestäsi. Palaamme asiaan kun hallitus on käsitellyt hakemuksesi.
 
 <form method="POST" action="/api/contact" class="contact-form">
   <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
