@@ -16,8 +16,7 @@ Ensimmäinen hankkeemme on [[Avoin Vaalikone|avoin vaalikone]] — avoimen lähd
 
 ## Lue lisää
 
-- [[Projects/active/avoin-vaalikone/workstreams/yhdistys|Yhdistyksestä]] — säännöt, hallitus, jäsenyys
-- [[hankkeet|Hankkeet]] — mitä rakennamme juuri nyt
+- [[Yhdistys|Yhdistyksestä]] — säännöt, hallitus, jäsenyys
 - [[ota-yhteytta|Ota yhteyttä]]
 
 ---
