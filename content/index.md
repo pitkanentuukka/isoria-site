@@ -19,6 +19,3 @@ Ensimmäinen hankkeemme on [[Avoin Vaalikone|avoin vaalikone]] — avoimen lähd
 - [[Yhdistys|Yhdistyksestä]] — säännöt, hallitus, jäsenyys
 - [[ota-yhteytta|Ota yhteyttä]]
 
----
-
-*CC-sessiot: [Session: Isoria-sivuston pystytys Quartzilla](claude-session://9ad3758e-f5c4-46bd-93b4-754fa9832830)*
