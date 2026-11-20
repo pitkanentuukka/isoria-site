@@ -67,4 +67,4 @@ Avointa Vaalikonetta ylläpitää **Isoria – demokratian rakentajat ry**, vuon
 
 - Demo: [avoinvaalikone.fi](https://avoinvaalikone.fi) · [videoesittely](https://youtu.be/hcFk0zAyR0I)
 - Yhdistys: [[index|isoria.fi]] · [[Yhdistys|yhdistyksestä]]
-- Yhteys: Tuukka Pitkänen, puheenjohtaja · info@isoria.fi · +358 40 355 9733 · [[ota-yhteytta|yhteydenottolomake]]
+- Yhteys: Tuukka Pitkänen, puheenjohtaja · info@isoria.fi · [[ota-yhteytta|yhteydenottolomake]]
