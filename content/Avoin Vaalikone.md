@@ -4,4 +4,4 @@ Lähdekoodi: [GitHub - pitkanentuukka/avoinvaalikone: Avoin Vaalikone · GitHub]
 
 Kaikille kansalaisjärjestöille avoin vaalikone, johon järjestöjen on helppoa lähettää omat kysymyksensä, ehdokkaat ja äänestäjät löytävät ne kaikki samasta paikasta ja ehdokasvertailu on helpompaa.
 
-
+**Järjestöille:** [[jarjestoille|Näin järjestönne tuo omat kysymyksensä vaalikoneeseen]]

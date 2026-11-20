@@ -16,6 +16,7 @@ Ensimmäinen hankkeemme on [[Avoin Vaalikone|avoin vaalikone]] — avoimen lähd
 
 ## Lue lisää
 
+- [[jarjestoille|Avoin Vaalikone järjestöille]] — näin järjestönne pääsee mukaan eduskuntavaaleihin 2027
 - [[Yhdistys|Yhdistyksestä]] — säännöt, hallitus, jäsenyys
 - [[ota-yhteytta|Ota yhteyttä]]
 
